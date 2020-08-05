@@ -1,4 +1,4 @@
-### Hi there, I'm Hedi - aka [drizzer][https://blog.drizzer.online/] 👋
+### Hi there, I'm Hedi - aka [drizzer][website] 👋
 
 ## I'm a Student Developer!
 - 🌱 I’m currently learning everything 🤣
@@ -33,7 +33,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=drizzer&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=drizzer&?theme=dracula&show_icons=true&hide_border=true" />
 
 [website]: https://blog.drizzer.online
 [twitter]: https://twitter.com/drizzer01
