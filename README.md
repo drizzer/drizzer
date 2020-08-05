@@ -1,22 +1,20 @@
-### Hi there, I'm Hedi - aka [drizzer][https://blog.drizzer.online/] ?‘‹
+### Hi there, I'm Hedi - aka [drizzer][https://blog.drizzer.online/] ðŸ‘‹
 
 ## I'm a Student Developer!
-
-- ?Œ± Iâ€™m currently learning everything ?¤£
-
-- ?‘¯ Iâ€™m looking to collaborate with other developers
-
-- ?¥? 2020 Goals: Contribute to Open Source projects
-
+- ðŸŒ± Iâ€™m currently learning everything ðŸ¤£
+- ðŸ‘¯ I am looking to collaborate with other developers
+- ðŸ¥… 2020 Goals: Contribute to Open Source projects
 - âš¡ Fun fact: I love to play games
-  
-  ### Connect with me:
-  
-  [<img align="left" alt="drizzer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-  [<img align="left" alt="drizzer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-  
-  <br />
-  ### Languages and Tools:
+
+### Connect with me:
+
+ [<img align="left" alt="drizzer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+ [<img align="left" alt="drizzer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br />
+
+### Languages and Tools:
+
   [<img align="left" alt="VsCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
   [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
   [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
@@ -28,8 +26,7 @@
 
 ---
 
-### ?“• Latest Blog Posts
-
+### ðŸ“• Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
