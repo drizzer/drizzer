@@ -3,7 +3,7 @@
 ## I'm a Student Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I am looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play games
 
 ### Connect with me:
