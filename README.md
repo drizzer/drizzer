@@ -1,16 +1,16 @@
 ### Hi there, I'm Hedi - aka [drizzer][website] 👋
 
-## I'm a Student Developer!
+## I'm a Student Developer that likes to contribute to Open Source projects!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I am looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play games
 
 ### Connect with me:
 
  [<img align="left" alt="drizzer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+ [<img align="left" alt="drizzer | Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/blogger.svg" />][blog]
+ [<img align="left" alt="drizzer | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  [<img align="left" alt="drizzer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
- [<img align="left" alt="drizzer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][twitter]
 
 <br />
 
@@ -48,5 +48,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=drizzer&theme=dracula&show_icons=true&hide_border=true" />
 
-[website]: https://blog.drizzer.online
+[website]: https://drizzer.de
+[blog]: https://blog.drizzer.de
+[linkedin]: https://www.linkedin.com/in/hedi-atya/
 [twitter]: https://twitter.com/drizzer01
