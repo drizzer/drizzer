@@ -8,7 +8,7 @@
 ### Connect with me:
 
  [<img align="left" alt="drizzer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
- [<img align="left" alt="drizzer | Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/blogger.svg" />][blog]
+ [<img align="left" alt="drizzer | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blog]
  [<img align="left" alt="drizzer | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  [<img align="left" alt="drizzer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
