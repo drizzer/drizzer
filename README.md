@@ -8,9 +8,9 @@
 ### Connect with me:
 
  [<img align="left" alt="drizzer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
- [<img align="left" alt="drizzer | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blog]
- [<img align="left" alt="drizzer | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- [<img align="left" alt="drizzer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+ [<img align="left" alt="drizzer | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/blogger.svg" />][blog]
+ [<img align="left" alt="drizzer | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.5.0/icons/linkedin.svg" />][linkedin]
+ [<img align="left" alt="drizzer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7.5.0/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -46,7 +46,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=drizzer&theme=dracula&show_icons=true&hide_border=true" />
+<img align="left" alt="drizzer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=drizzer&theme=dracula&show_icons=true&hide_border=true" />
 
 [website]: https://drizzer.de
 [blog]: https://blog.drizzer.de
