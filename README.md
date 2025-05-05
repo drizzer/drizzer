@@ -69,7 +69,7 @@
 
 ---
 
-<img align="left" alt="drizzer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=drizzer&theme=dracula&show_icons=true&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=drizzer&theme=onedark&hide_border=true" alt="drizzer's GitHub Stats" />
 
 [website]: https://drizzer.de
 [blog]: https://blog.drizzer.de
